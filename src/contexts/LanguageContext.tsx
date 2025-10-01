@@ -88,7 +88,7 @@ const translations = {
     
     // Jai Ganesh School
     'medical.founded': 'Founded in 2003',
-    'medical.title': 'Jai Ganesh School',
+    'medical.title': 'Jay Ganesh School',
     'medical.description': 'Jai Ganesh School is committed to creating and nurturing a diverse community of the best and brightest students, faculty, and staff, with a shared mission to serve others through quality education.',
     'medical.explore': 'Explore Jai Ganesh School →',
     
