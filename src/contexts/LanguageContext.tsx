@@ -94,9 +94,9 @@ const translations = {
     
     // Parulekar Primary School
     'business.founded': 'Founded in 1962',
-    'business.title': 'Parulekar Primary School',
-    'business.description': 'Parulekar Primary School prepares young learners who make a difference in the world. We develop innovative educational approaches and cultivate creative thinking for the challenges of tomorrow.',
-    'business.explore': 'Explore Parulekar Primary School →',
+    'business.title': 'Mohanrao Parulekar Primary School',
+    'business.description': 'Mohanrao Parulekar Primary School prepares young learners who make a difference in the world. We develop innovative educational approaches and cultivate creative thinking for the challenges of tomorrow.',
+    'business.explore': 'Explore Mohanrao Parulekar Primary School →',
     
     // Ghuruye School
     'arts.founded': 'Founded in 1948',
@@ -176,7 +176,7 @@ const translations = {
     
     // Parulekar Primary School
     'business.founded': '१९६२ मध्ये स्थापना',
-    'business.title': 'पारुळेकर प्राथमिक शाळा',
+    'business.title': 'मोहनराव परुळेकर प्राथमिक शाळा',
     'business.description': 'पारुळेकर प्राथमिक शाळा जगात फरक करणारे तरुण शिकणारे तयार करते. आम्ही उद्याच्या आव्हानांसाठी नाविन्यपूर्ण शैक्षणिक पद्धती विकसित करतो आणि सर्जनशील विचारसरणी जोपासतो.',
     'business.explore': 'पारुळेकर प्राथमिक शाळा एक्सप्लोर करा →',
     
