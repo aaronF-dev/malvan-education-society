@@ -1,9 +1,11 @@
 import { useLanguage } from "@/contexts/LanguageContext";
 import committeeMember1 from "@/assets/vijay kamat.png";
 import committeeMember2 from "@/assets/committee member2.png";
-import committeeMember3 from "@/assets/icon.png";
-import committeeMember4 from "@/assets/icon.png";
-import committeeMember5 from "@/assets/icon.png";
+import committeeMember3 from "@/assets/rajiv.png";
+import committeeMember4 from "@/assets/valanju.png";
+import committeeMember5 from "@/assets/SHWETA PEDNEKAR.png";
+import committeeMember6 from "@/assets/VEENA GOSAVI.png";
+import committeeMember7 from "@/assets/TEJAL VENGURLEKAR.png";
 
 const CommitteeSection = () => {
   const { t } = useLanguage();
