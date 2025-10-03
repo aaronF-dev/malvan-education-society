@@ -41,6 +41,18 @@ const CommitteeSection = () => {
       name: t('committee.member5.name'),
       position: t('committee.member5.position'),
     },
+    {
+      id: 6,
+      image: committeeMember6,
+      name: t('committee.member6.name'),
+      position: t('committee.member6.position'),
+    },
+    {
+      id: 7,
+      image: committeeMember7,
+      name: t('committee.member7.name'),
+      position: t('committee.member7.position'),
+    },
   ];
 
   return (
