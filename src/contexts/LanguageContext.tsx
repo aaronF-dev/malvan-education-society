@@ -109,7 +109,7 @@ const translations = {
     'committee.subtitle': 'Meet our dedicated committee members who guide our educational mission.',
     'committee.member1.name': 'Mr. Vijay Kamat',
     'committee.member1.position': 'Chairman',
-    'committee.member2.name': 'Mr. Xyz Patil',
+    'committee.member2.name': 'Mr. Digambar Samant',
     'committee.member2.position': 'Vice Chairperson',
     'committee.member3.name': 'Dr. Ashok Kumar',
     'committee.member3.position': 'Secretary',
