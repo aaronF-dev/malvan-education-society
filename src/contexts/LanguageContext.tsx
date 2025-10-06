@@ -78,7 +78,7 @@ const translations = {
     'college.founded': 'Founded in 1911',
     'college.title': 'A.S.D. Topiwala High School',
     'college.description': 'Topiwala School is a dynamic, close-knit community of dedicated students and faculty who come together as a means to learn from the past and navigate the future.',
-    'college.explore': 'Explore Topiwala School →',
+    'college.explore': 'Explore Topiwala School →' ,
     
     // Topiwala Junior College
     'tech.founded': 'Founded in 1947',
@@ -88,9 +88,9 @@ const translations = {
     
     // Jai Ganesh School
     'medical.founded': 'Founded in 2003',
-    'medical.title': 'Jay Ganesh School',
-    'medical.description': 'Jay Ganesh School is committed to creating and nurturing a diverse community of the best and brightest students, faculty, and staff, with a shared mission to serve others through quality education.',
-    'medical.explore': 'Explore Jay Ganesh School →',
+    'medical.title': 'Jay Ganesh English Medium School',
+    'medical.description': 'Jay Ganesh English Medium School is committed to creating and nurturing a diverse community of the best and brightest students, faculty, and staff, with a shared mission to serve others through quality education.',
+    'medical.explore': 'Explore Jay Ganesh English Medium School →',
     
     // Parulekar Primary School
     'business.founded': 'Founded in 1962',
@@ -140,8 +140,8 @@ const translations = {
     'footer.admissions': 'Admissions',
     'footer.contact': 'Contact',
     'footer.location': 'Malvan, Sindhudurg, Maharashtra',
-    'footer.phone': 'Phone: +91 98765 43210',
-    'footer.email': 'Email: info@malvaneducation.org',
+    'footer.phone': 'Phone: 02365 252058',
+    'footer.email': 'Email: smesm@rediffmail.com ',
     'footer.copyright': '© 2025 Malvan Education Society. All rights reserved. Developed by Team Knowvate.',
     
     // Search
@@ -223,7 +223,7 @@ const translations = {
     'footer.contact': 'संपर्क',
     'footer.location': 'मालवण, महाराष्ट्र',
     'footer.phone': 'फोन: +९१ ९८७६५ ४३२१०',
-    'footer.email': 'ईमेल: info@malvaneducation.org',
+    'footer.email': 'ईमेल: smesm@rediffmail.com=',
     'footer.copyright': '© २०२४ मालवण शिक्षण संस्था. सर्व हक्क राखीव.',
     
     // Search

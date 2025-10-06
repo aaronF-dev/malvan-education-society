@@ -77,7 +77,7 @@ export class ChatbotService {
           name: 'मालवण शिक्षण संस्था',
           location: 'मालवण, महाराष्ट्र',
           phone: '+९१ ९८७६५ ४३२१०',
-          email: 'info@malvaneducation.org',
+          email: 'smesm@rediffmail.com ',
           motto: 'कायदा आणि न्याय'
         }
       };
@@ -119,8 +119,8 @@ export class ChatbotService {
       general: {
         name: 'Malvan Education Society',
         location: 'Malvan, Maharashtra',
-        phone: '+91 98765 43210',
-        email: 'info@malvaneducation.org',
+        phone: '02365 252058',
+        email: 'smesm@rediffmail.com ',
         motto: 'LEX ET IUSTITIA (Law and Justice)'
       }
     };
@@ -388,7 +388,7 @@ export class ChatbotService {
     return [
       {
         keywords: ['fees', 'cost', 'tuition', 'payment'],
-        response: () => 'For fee structure information, please contact the specific school directly. You can email info@malvaneducation.org or call +91 98765 43210 for detailed information.'
+        response: () => 'For fee structure information, please contact the specific school directly. You can email smesm@rediffmail.com  or call 02365 252058 for detailed information.'
       },
       {
         keywords: ['admission', 'apply', 'application', 'enrollment'],
@@ -498,7 +498,7 @@ export class ChatbotService {
 
   private getFallbackResponse(): string {
     return this.language === 'en'
-      ? "I'm here to help with information about Malvan Education Society and our schools. You can ask me about our programs, admissions, or contact information. For detailed inquiries, please contact us at info@malvaneducation.org or call +91 98765 43210."
-      : "मी मालवण शिक्षण संस्था आणि आमच्या शाळांबद्दल माहिती देण्यासाठी येथे आहे. तुम्ही मला आमच्या कार्यक्रम, प्रवेश किंवा संपर्क माहितीबद्दल विचारू शकता. तपशीलवार चौकशीसाठी, कृपया info@malvaneducation.org वर संपर्क करा किंवा +९१ ९८७६५ ४३२१० वर कॉल करा.";
+      ? "I'm here to help with information about Malvan Education Society and our schools. You can ask me about our programs, admissions, or contact information. For detailed inquiries, please contact us at smesm@rediffmail.com  or call ."
+      : "मी मालवण शिक्षण संस्था आणि आमच्या शाळांबद्दल माहिती देण्यासाठी येथे आहे. तुम्ही मला आमच्या कार्यक्रम, प्रवेश किंवा संपर्क माहितीबद्दल विचारू शकता. तपशीलवार चौकशीसाठी, कृपया smesm@rediffmail.com  वर संपर्क करा किंवा +९१ ९८७६५ ४३२१० वर कॉल करा.";
   }
 }

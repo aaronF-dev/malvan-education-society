@@ -1,5 +1,5 @@
 import { useLanguage } from "@/contexts/LanguageContext";
-import mesLogo from "@/assets/mes-logo-new.png";
+import mesLogo from "@/assets/logo.png";
 
 const HarvardLogo = () => {
   const { t } = useLanguage();

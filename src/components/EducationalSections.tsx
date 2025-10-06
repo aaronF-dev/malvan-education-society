@@ -46,13 +46,14 @@ const EducationalSections = () => {
               <p className="text-muted-foreground leading-relaxed mb-6 sm:mb-8 text-base sm:text-lg">
                 {t('college.description')}
               </p>
-              <Button 
-                variant="outline" 
-                size="lg"
-                className="hover:bg-primary hover:text-primary-foreground transition-colors"
-              >
-                {t('college.explore')}
-              </Button>
+              <Button
+  variant="outline"
+  size="lg"
+  className="hover:bg-primary hover:text-primary-foreground transition-colors"
+  onClick={() => window.open('https://ths.topiwala-mes.org', '_blank')}
+>
+  {t('college.explore')}
+</Button>
             </div>
           </div>
 
@@ -77,13 +78,14 @@ const EducationalSections = () => {
               <p className="text-muted-foreground leading-relaxed mb-6 sm:mb-8 text-base sm:text-lg">
                 {t('tech.description')}
               </p>
-              <Button 
-                variant="outline" 
-                size="lg"
-                className="hover:bg-primary hover:text-primary-foreground transition-colors"
-              >
-                {t('tech.explore')}
-              </Button>
+             <Button
+  variant="outline"
+  size="lg"
+  className="hover:bg-primary hover:text-primary-foreground transition-colors"
+  onClick={() => window.open('https://ths.topiwala-mes.org', '_blank')}
+>
+  {t('college.explore')}
+</Button>
             </div>
           </div>
 
@@ -108,13 +110,14 @@ const EducationalSections = () => {
               <p className="text-muted-foreground leading-relaxed mb-6 sm:mb-8 text-base sm:text-lg">
                 {t('medical.description')}
               </p>
-              <Button 
-                variant="outline" 
-                size="lg"
-                className="hover:bg-primary hover:text-primary-foreground transition-colors"
-              >
-                {t('medical.explore')}
-              </Button>
+             <Button
+  variant="outline"
+  size="lg"
+  className="hover:bg-primary hover:text-primary-foreground transition-colors"
+  onClick={() => window.open('https://jayganesh.topiwala-mes.org', '_blank')}
+>
+  {t('medical.explore')}
+</Button>
             </div>
           </div>
 
@@ -139,13 +142,14 @@ const EducationalSections = () => {
               <p className="text-muted-foreground leading-relaxed mb-6 sm:mb-8 text-base sm:text-lg">
                 {t('business.description')}
               </p>
-              <Button 
-                variant="outline" 
-                size="lg"
-                className="hover:bg-primary hover:text-primary-foreground transition-colors"
-              >
-                {t('business.explore')}
-              </Button>
+              <Button
+  variant="outline"
+  size="lg"
+  className="hover:bg-primary hover:text-primary-foreground transition-colors"
+  onClick={() => window.open('https://mohanraoparulekar.topiwala-mes.org', '_blank')}
+>
+  {t('business.explore')}
+</Button>
             </div>
           </div>
 
@@ -170,13 +174,14 @@ const EducationalSections = () => {
               <p className="text-muted-foreground leading-relaxed mb-6 sm:mb-8 text-base sm:text-lg">
                 {t('arts.description')}
               </p>
-              <Button 
-                variant="outline" 
-                size="lg"
-                className="hover:bg-primary hover:text-primary-foreground transition-colors"
-              >
-                {t('arts.explore')}
-              </Button>
+              <Button
+  variant="outline"
+  size="lg"
+  className="hover:bg-primary hover:text-primary-foreground transition-colors"
+  onClick={() => window.open('https://smtghurye.topiwala-mes.org', '_blank')}
+>
+  {t('arts.explore')}
+</Button>
             </div>
           </div>
         </div>
